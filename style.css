@@ -1,3 +1,4 @@
+
 .start_line {
     margin:  0  0  0 50px;
 }
@@ -36,3 +37,30 @@ padding: 5px;
 background: green;
 }
 
+
+
+.green_rect {
+
+    background-color: #006752;
+    width: 300px;
+    height: 175px;
+    margin: 50px;
+    display:flex;
+}
+
+.red_me {
+    background-color: red;
+
+}
+
+
+.red_circle {
+
+    background-color: red;
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+    margin: auto 80px;
+    
+
+}
